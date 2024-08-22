@@ -57,6 +57,7 @@ body {
   top: -32px;
   cursor: pointer;
   transition: 0.6s;
+  user-select: none;
 }
 .icon:hover {
   box-shadow: 0px 0px 20px 5px var(--Neon-Green);
